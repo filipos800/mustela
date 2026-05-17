@@ -24,7 +24,7 @@ Watch the video [**Mustela SSG Demo: 1.3MB High-Speed Vlang Engine with Parallel
 
 ## ⚡ The Mustela Edge
 
-- **Blazing Fast Performance:** Processes 5,000 Markdown files in 528 ms (~9,470 pages/sec) with warm-cache build times under 20 ms.
+- **Blazing Fast Performance:** Processes 5,000 Markdown files in 528 ms (~9,470 pages/sec).
 - **Zero-Dependency Core:** Distributed as a single, statically linked binary (~1.3 MB). No `node_modules`, no external registries.
 - **Zero-Copy Architecture:** Strictly avoids redundant memory allocations by passing raw pointers across a stateful DSL engine.
 - **Minimal Memory Footprint:** Standard builds consume around 4.8 MB RAM, eliminating the risk of memory-exhaustion attacks.
