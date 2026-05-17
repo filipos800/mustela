@@ -2,9 +2,9 @@
 
 > **Engineered for the Unforgiving.** High-performance static site engine and documentation reference forged for forensic documentation and high-pressure operations. Built to deliver data when failure isn't an option.
 
-🌐 **Official Website:** [mustela.vercel.app](https://mustela.vercel.app)
-📖 **Documentation:** [mustela.vercel.app/doc/get-started](https://mustela.vercel.app/doc/get-started)
-📰 **Field Reports (Blog):** [mustela.vercel.app/blog](https://mustela.vercel.app/blog)
+🌐 **Official Website:** [mustela.vercel.app](https://mustela.vercel.app)  
+📖 **Documentation:** [mustela.vercel.app/doc/get-started](https://mustela.vercel.app/doc/get-started)  
+📰 **Field Reports (Blog):** [mustela.vercel.app/blog](https://mustela.vercel.app/blog)  
 📺 **Video Demonstration:** [Watch on YouTube](https://youtu.be/jJHkLPb4rk8?si=Y44YEYgpUfLiys4F)
 
 ### 📦 Ecosystem Repositories (Codeberg)
@@ -67,5 +67,5 @@ While the repository remains closed-source, Mustela welcomes developers who shar
 
 ---
 
-Designed and maintained by Filip Vrba.
+Designed and maintained by Filip Vrba.  
 Mustela Engine © 2026. All rights reserved.
