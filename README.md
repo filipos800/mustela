@@ -3,6 +3,8 @@
 > **Engineered for the Unforgiving.** High-performance static site engine and documentation reference forged for forensic documentation and high-pressure operations. Built to deliver data when failure isn't an option.
 
 🌐 **Official Website:** [mustela.vercel.app](https://mustela.vercel.app)  
+📦 **Mustela Web (Codeberg):** [codeberg.org/mustela/web](https://codeberg.org/mustela/web)  
+⚡ **Mustela Preset Vite (Codeberg):** [codeberg.org/mustela/preset-vite](https://codeberg.org/mustela/preset-vite)  
 📺 **Video Demonstration:** [Watch on YouTube](https://youtu.be/jJHkLPb4rk8?si=Y44YEYgpUfLiys4F)
 
 ---
@@ -57,6 +59,8 @@ While the repository remains closed-source, Mustela welcomes developers who shar
 
 - **Collaboration Request:** Contact me directly. Every proposed feature and architectural alignment will be reviewed personally by the lead architect (Filip Vrba) to keep the core codebase lean and zero-bloat.
 - **Revenue Share:** If your contribution is approved and integrated into the commercial B2B offerings, an equitable revenue share from license sales will be established. True engineering skill should never work for free.
+
+---
 
 Designed and maintained by Filip Vrba.
 Mustela Engine © 2026. All rights reserved.
