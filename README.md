@@ -2,10 +2,15 @@
 
 > **Engineered for the Unforgiving.** High-performance static site engine and documentation reference forged for forensic documentation and high-pressure operations. Built to deliver data when failure isn't an option.
 
-🌐 **Official Website:** [mustela.vercel.app](https://mustela.vercel.app)  
+🌐 **Official Website:** [mustela.vercel.app](https://mustela.vercel.app)
+📖 **Documentation:** [mustela.vercel.app/doc/get-started](https://mustela.vercel.app/doc/get-started)
+📰 **Field Reports (Blog):** [mustela.vercel.app/blog](https://mustela.vercel.app/blog)
+📺 **Video Demonstration:** [Watch on YouTube](https://youtu.be/jJHkLPb4rk8?si=Y44YEYgpUfLiys4F)
+
+### 📦 Ecosystem Repositories (Codeberg)
+
 📦 **Mustela Web (Codeberg):** [codeberg.org/mustela/web](https://codeberg.org/mustela/web)  
 ⚡ **Mustela Preset Vite (Codeberg):** [codeberg.org/mustela/preset-vite](https://codeberg.org/mustela/preset-vite)  
-📺 **Video Demonstration:** [Watch on YouTube](https://youtu.be/jJHkLPb4rk8?si=Y44YEYgpUfLiys4F)
 
 ---
 
