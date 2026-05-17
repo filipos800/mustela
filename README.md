@@ -11,7 +11,7 @@
 
 Mustela is a blazing-fast static site engine (SSG) written in the **V language**. The entire architecture is built on the principle of "reductive engineering"—no unnecessary abstractions, zero dependencies, zero tracking, just pure performance optimized for the physical limits of hardware.
 
-Validated by the creator of the V language (Alex), who confirmed build speeds exceeding **9,000 pages per second**, Mustela is the ultimate tool for high-pressure CI/CD pipelines and massive technical documentation hubs.
+Validated by the creator of the V language ([Alex](https://x.com/v_language/status/2053465241535557759)), who confirmed build speeds exceeding **9,000 pages per second**, Mustela is the ultimate tool for high-pressure CI/CD pipelines and massive technical documentation hubs.
 
 ## 🎥 Video Demonstration
 
